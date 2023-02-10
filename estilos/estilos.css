@@ -27,3 +27,21 @@ body{
 #container h1{
     font-size: 20px;
 }
+footer{
+    display: flex;
+    width: 100%;
+    background-color:darkgray;
+}
+.footer{
+    width: 100px;
+}
+.footer ul{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer ul li{
+    list-style: none;
+    color: black;
+    margin: 10px;
+}
